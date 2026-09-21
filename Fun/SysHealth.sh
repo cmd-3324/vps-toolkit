@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Run : chmod +x SysHealth.sh To be able to run script in Bash! 
 clear
 
 pause() {
