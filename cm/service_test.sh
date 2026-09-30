@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# You can add as amny services as You desire, But keep that in mind that it must match the exact name we have in Systemd.
+# Wanna see exact name ? Run command : ps aux | grep -i "*name*"  to find the matching cases , Then Add it into varbile "services" . 
 services="nginx redis-server mysql"
 
 for service in $services
