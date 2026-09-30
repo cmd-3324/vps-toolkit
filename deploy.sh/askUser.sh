@@ -15,3 +15,7 @@ ask_user() {
 }
 
 ask_user
+
+# This is a demo , sample Shell script for Devs.
+# I know it is rediclouse But This is just a fun - one time thign I created During This Long But SHort Jounrey.
+# People Know What I mean; 30 Sep 
